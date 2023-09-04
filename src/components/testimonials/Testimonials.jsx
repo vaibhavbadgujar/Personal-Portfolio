@@ -18,14 +18,14 @@ import 'swiper/css/pagination';
 
 const data = [
 {
-  avatar: AVTR1,
-  name: 'Murad Sayyad',
+  avatar: AVTR2,
+  name: 'Neha Tomke',
   review: 'Vaibhav was very helpful and fast to respond to my inquiry to help with Wordpress website issues.  His knowledge was comprehensive.  Even better, his advice helped me enough to solve the problems and he did not accept any payment for this, very straight up guy! Thank you Vaibhav '
   
 },
 {
-  avatar: AVTR2,
-  name: 'Neha Tomke',
+  avatar: AVTR1,
+  name: 'Murad Sayyad',
   review: 'Vaibhav is a great help managing a very out of date website. Everything we ask him to do is done quickly and efficiently, we would be lost without him '
   
 },
