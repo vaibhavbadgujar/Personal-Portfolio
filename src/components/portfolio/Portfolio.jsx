@@ -6,7 +6,8 @@ import IMG3 from '../../assets/portfolio3.jpg'
 import IMG4 from '../../assets/portfolio4.jpg'
 import IMG5 from '../../assets/portfolio5.png'
 import IMG6 from '../../assets/portfolio6.jpg'
-import IMG7 from '../../assets/portfolio7.jpg'
+//import IMG7 from '../../assets/portfolio7.jpg'
+import IMG8 from '../../assets/portfolio8.png'
 
 
 //do not use the image in production
@@ -54,12 +55,19 @@ const data = [
   github: 'https://github.com/vaibhavbadgujar/Project/tree/master/responsive-headphones-main',
   demo: 'https://vaibhavbadgujar-headphones-website.netlify.app/'
 },
+// {
+//   id: 7,
+//   image: IMG7,
+//   title: 'TODO - APP ',
+//   github: 'https://github.com/vaibhavbadgujar/JSfilesEA21/tree/master/Project_to-do-app',
+//   demo: 'https://vaibhavbadgujar.github.io/JSfilesEA21/Project_to-do-app/index.html'
+// },
 {
-  id: 7,
-  image: IMG7,
-  title: 'TODO - APP ',
-  github: 'https://github.com/vaibhavbadgujar/JSfilesEA21/tree/master/Project_to-do-app',
-  demo: 'https://vaibhavbadgujar.github.io/JSfilesEA21/Project_to-do-app/index.html'
+  id: 8,
+  image: IMG8 ,
+  title: 'Responsive Tourism Website',
+  github: 'https://github.com/vaibhavbadgujar/Project/tree/master/responsive-tourism-website-main',
+  demo: 'https://vaibhavbadgujar-tourism-website.netlify.app/'
 }
 
 
