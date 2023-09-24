@@ -13,7 +13,7 @@ const Header = () => {
         <h1>Vaibhav Badgujar</h1>
         <h5 className="text-light">
         <Typewriter
-            words={['Frontend Developer','Web Designer','Photographer', 'Freelance' ]}
+            words={['Frontend Developer','UI/UX Designer','Web Developer','Photographer' ]}
             loop
             cursor
             cursorStyle='|'
